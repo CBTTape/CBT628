@@ -1,0 +1,8 @@
+2023-04-03 01:31:00.908544 - Initialized conversion of CBT628
+2023-04-03 01:31:00.962540 - Received CBT.V504.FILE628.PDS from FILE628.XMI 
+2023-04-03 01:31:00.965301 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE628.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:31:00.966507 - Found $$$DOC.rexx (text/plain) in CBT.V504.FILE628.PDS, moved to PDS/$$$DOC
+2023-04-03 01:31:00.967701 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE628.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:31:00.968870 - Found @FILE628.txt (text/plain) in CBT.V504.FILE628.PDS, moved to PDS/@FILE628
+2023-04-03 01:31:00.969940 - Found GPL.txt (text/plain) in CBT.V504.FILE628.PDS, moved to PDS/GPL
+2023-04-03 01:31:00.970916 - Found TCPDUMP.rexx (text/plain) in CBT.V504.FILE628.PDS, moved to PDS/TCPDUMP
