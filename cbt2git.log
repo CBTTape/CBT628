@@ -1,0 +1,7 @@
+2025-04-13 21:20:27.231591 - Received CBT.V508.FILE628.PDS from FILE628.XMI 
+2025-04-13 21:20:27.232370 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE628.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:20:27.232454 - Found $$$DOC.rexx (text/plain) in CBT.V508.FILE628.PDS, moved to PDS/$$$DOC
+2025-04-13 21:20:27.232559 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE628.PDS, moved to PDS/$$NOTE1
+2025-04-13 21:20:27.232636 - Found @FILE628.txt (text/plain) in CBT.V508.FILE628.PDS, moved to PDS/@FILE628
+2025-04-13 21:20:27.232713 - Found GPL.txt (text/plain) in CBT.V508.FILE628.PDS, moved to PDS/GPL
+2025-04-13 21:20:27.232790 - Found TCPDUMP.rexx (text/plain) in CBT.V508.FILE628.PDS, moved to PDS/TCPDUMP
